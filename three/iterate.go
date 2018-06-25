@@ -2,8 +2,8 @@ package three
 
 func List() []string {
 	return []string{
-		"one",
-		"two",
-		"three",
+		"one-v2",
+		"two-v2",
+		"three-v2",
 	}
 }
